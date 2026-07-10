@@ -5,6 +5,16 @@ Welcome to the Sogand Gym Management System. This application is designed to eff
 
 Features & Usage
 
+##Libraries
+
+```import tkinter
+from datetime import datetime
+from  tkinter import *
+import sqlite3
+from tkinter import ttk
+from tkinter import messagebox
+from tkinter.scrolledtext import ScrolledText```
+
 ## 1. Member Registration
 
 To get started, navigate to the “User” (کاربری) section to register a new member. Please provide the member’s first name, last name, mobile number, and other required details.
